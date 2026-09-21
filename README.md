@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Jiwon Lee 👋</h1>
+<h1 align="center">
+  Hi, I'm Jiwon Lee
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
 <p align="center">
   Undergraduate student studying <b>Statistics</b> and <b>Artificial Intelligence</b> at Ewha Womans University.
@@ -34,18 +37,11 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jiw0n-lee&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiw0n-lee&layout=compact&hide_border=true" />
-</p>
-
 ## 3D Contribution Graph
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-## Contact
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> Nice ways to reach me
 
 <a href="mailto:12ljw@ewha.ac.kr">
   <img src="https://img.shields.io/badge/Email-12ljw%40ewha.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
