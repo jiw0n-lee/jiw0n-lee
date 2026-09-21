@@ -23,12 +23,6 @@
 ![Human-AI Interaction](https://img.shields.io/badge/Human--AI%20Interaction-059669?style=flat-square)
 ![Mental Health AI](https://img.shields.io/badge/Mental%20Health%20AI-DB2777?style=flat-square)
 
-## Current Research
-
-- Analyzing layer-wise and attention-head representations in LLMs using linear probing
-- Investigating internal signals for mental-health-related text classification
-- Comparing intermediate representations to understand where task-relevant information emerges
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
