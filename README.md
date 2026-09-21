@@ -11,12 +11,20 @@
   LLM Evaluation · Interpretability · Human-AI Interaction · Mental Health AI
 </p>
 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> Nice ways to reach me
+
+<a href="mailto:12ljw@ewha.ac.kr">
+  <img src="https://img.shields.io/badge/Email-12ljw%40ewha.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jiwon-lee-842174404/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
 ## About Me
 
 - Studying Statistics and Artificial Intelligence at Ewha Womans University
-- Currently analyzing internal representations of large language models through probing methods
-- Interested in understanding how LLMs represent, evaluate, and use task-relevant signals
-- Exploring research at the intersection of AI evaluation, interpretability, and human-centered AI
+- Interested in LLM evaluation, interpretability, and human-centered AI
+- Exploring how large language models represent and use task-relevant information
 
 ## Research Interests
 
@@ -40,12 +48,3 @@
 ## 3D Contribution Graph
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> Nice ways to reach me
-
-<a href="mailto:12ljw@ewha.ac.kr">
-  <img src="https://img.shields.io/badge/Email-12ljw%40ewha.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/jiwon-lee-842174404/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
