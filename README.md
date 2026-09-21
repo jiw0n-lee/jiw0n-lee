@@ -50,3 +50,6 @@
 <a href="mailto:12ljw@ewha.ac.kr">
   <img src="https://img.shields.io/badge/Email-12ljw%40ewha.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://www.linkedin.com/in/jiwon-lee-842174404/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
